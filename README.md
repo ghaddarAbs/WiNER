@@ -1,2 +1,2 @@
-# WiNE
+# WiNER
 Coming soon
